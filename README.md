@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# TripMateAI – AI-Powered Kerala Travel Assistant
 
 TripMateAI is an AI-powered customer service chatbot for a fictional Kerala-based travel company.
@@ -84,3 +85,7 @@ These are fictional demonstration packages.
 ## License
 
 Educational and demonstration purposes.
+=======
+# TripMateAI
+AI-powered Kerala travel customer service chatbot using Gemini, Python, SQLite and Gradio.
+>>>>>>> origin/main
